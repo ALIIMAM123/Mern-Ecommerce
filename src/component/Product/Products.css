@@ -1,0 +1,25 @@
+.productsHeading {
+	font-size: 2rem;
+	font-weight: 400;
+	width: 5rem;
+	margin: auto;
+	margin-top: 7rem;
+	color: rgb(40, 39, 39);
+}
+
+.products {
+	width: 80%;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.checkk {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
